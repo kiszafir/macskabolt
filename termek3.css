@@ -1,0 +1,12 @@
+div.termek {
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+h2 {
+    margin-left: 100px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
